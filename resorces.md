@@ -1,1 +1,0 @@
-[free-icons](https://ionic.io/ionicons)
